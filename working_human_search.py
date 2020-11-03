@@ -1,3 +1,7 @@
+#this program searches for a human face, it prints 'searching' unitil it finds a face then it post a window
+
+
+
 import numpy as np
 import cv2
 
